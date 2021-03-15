@@ -87,7 +87,7 @@ header {
 }
 
 .dropdown-menu {
-  /* display: none; */
+  display: none;
   position: absolute;
   top: 160%;
   left: 0;
@@ -104,6 +104,6 @@ header {
   transition: color 0.2s ease 0s;
 }
 
-.ative {
+.active {
   display: block;
 }
